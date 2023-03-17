@@ -1,0 +1,2 @@
+
+{"coord":{"lon":-84.5333,"lat":39.1834},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"stations","main":{"temp":11.92,"feels_like":10.79,"temp_min":9.8,"temp_max":13.29,"pressure":1016,"humidity":62},"visibility":10000,"wind":{"speed":4.12,"deg":230},"clouds":{"all":0},"dt":1677432708,"sys":{"type":2,"id":2005257,"country":"CA","sunrise":1677413741,"sunset":1677454008},"timezone":-18000,"id":4513583,"name":"Hamilton","cod":200}
